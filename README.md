@@ -1,7 +1,7 @@
-<!-- Boas-vindas e Localização -->
+<!-- Boas-vindas e Localização Natural -->
 <div align="center">
   <h1>Olá 👋, I'm Brunno Araújo dos Santos</h1>
-  <p>📍 Based in São Paulo, Brazil 🇧🇷</p>
+  <p>📍 From São Paulo, Brazil 🇧🇷</p>
   <p>Welcome to my GitHub profile! / Bem-vindo ao meu perfil!</p>
 </div>
 
@@ -9,7 +9,7 @@
 
 <!-- Seção em Inglês -->
 <h2>🇺🇸 About Me (English)</h2>
-<p>🚀 I am a tech professional who recently entered the <strong>Computer Networks and Technical Support</strong> field. At the same time, I am in my first semester of <strong>Analysis and Systems Development</strong> at Unisa, building my technical foundation from scratch and focusing on growing every day.</p>
+<p>🚀 I am a tech professional who recently entered the <strong>Computer Networks and Technical Support</strong> field. At the same time, I am in my second semester of <strong>Analysis and Systems Development</strong> at Unisa, building my technical foundation from scratch and focusing on growing every day.</p>
 
 <h3>🛠️ What I am currently studying and focusing on:</h3>
 <ul>
@@ -44,7 +44,7 @@
 
 <hr />
 
-<!-- Seção de Redes Sociais Centralizada -->
+<!-- Seção de Redes Sociais Centralizada com Link Direto -->
 <div align="center">
   <h3>📫 Connect with me / Conecte-se comigo:</h3>
   <a href="https://www.linkedin.com/in/brunnoara" target="_blank">
